@@ -8,5 +8,10 @@
     "react-native-button-component": "^0.2.28",
     "react-native-flexi-radio-button": "^0.2.2",
     "react-router-native": "^4.2.0"
+  },
+  "scripts": 
+  {
+    "start": "react-native-scripts start"
+
   }
 }
